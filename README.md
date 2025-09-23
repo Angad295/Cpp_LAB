@@ -1,1 +1,1 @@
-.vsCode is my Coding_SET1
+.vscode is my Coding_SET1
