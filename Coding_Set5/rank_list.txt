@@ -1,0 +1,14 @@
+Rank: 1
+Roll No: 1
+Name: angad
+Marks: 90, 90, 90
+Total: 270
+Grade: A
+-----------------------------
+Rank: 2
+Roll No: 2
+Name: ronak
+Marks: 90, 90, 90
+Total: 270
+Grade: A
+-----------------------------
