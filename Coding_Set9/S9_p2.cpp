@@ -13,6 +13,17 @@ int main(){
         cin>>temp;
         vec.push_back(temp);
     }
+    cout<<"Enter an integer to remove occurances :";
+    cin>>temp;
+    
+    int j=0;
+
+    for(int i :  vec){
+        if(i==temp){
+            vec.erase(vec.begin()+j);
+            j++;
+        }j++;
+    }
     for(int i : vec){
         cout<<i<<"\t";
     }
